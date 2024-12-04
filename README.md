@@ -1,5 +1,6 @@
 ## Hi there 👋
 Hola:)
+![Aquí un gif]("C:\Users\javie\Downloads\simulator.gif")
 
 <!--
 **rijaev30/rijaev30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
